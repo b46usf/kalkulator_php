@@ -45,7 +45,7 @@
 	?>
 	<div class="bg-white p-6 rounded-lg shadow-lg w-80">
 		<h2 class="text-2xl font-semibold text-center text-gray-800 mb-4">KALKULATOR</h2>
-		<a class="text-sm text-blue-500 hover:text-blue-700 mb-4 block text-center" href="https://www.youtube.com/c/imamdeveloper">YOUTUBE/imamdeveloper</a>
+		<a class="text-sm text-blue-500 hover:text-blue-700 mb-4 block text-center" href="https://github.com/b46usf/kalkulator_php">GITHUB/b46usf</a>
 		
 		<form method="post" action="" class="space-y-4">
 			<div>

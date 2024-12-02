@@ -59,7 +59,7 @@ Plus, bisa juga pake keyboard! 😎✨
 
 ### 🗣️ **Bantuan / Feedback**:
 Kalo lo punya pertanyaan, masalah, atau ide buat upgrade kalkulator ini, feel free buat DM aku di [Instagram @babesugab](https://www.instagram.com/babesugab). 💬
-
+Yang mau sawer bisa ke http://lynk.id/payme/innotechedu
 ---
 
 Semoga kalkulator ini membantu lo buat nyelesaiin tugas-tugas matematika lo, atau sekedar nyenengin hari lo dengan hitung-hitungan yang gampang banget! 😁✌️
